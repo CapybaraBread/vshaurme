@@ -1,7 +1,9 @@
 .idea
+ded.text
 .vscode
 .DS_Store
 .sqlite3
+
 .gitattributes
 __pycache__/
 *.py[cod]
